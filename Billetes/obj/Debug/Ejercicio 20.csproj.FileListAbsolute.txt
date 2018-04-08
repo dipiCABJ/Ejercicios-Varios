@@ -1,0 +1,7 @@
+C:\Users\dsdip\source\repos\Practica Prog_Lab_2\Billetes\bin\Debug\Billetes.exe.config
+C:\Users\dsdip\source\repos\Practica Prog_Lab_2\Billetes\bin\Debug\Billetes.exe
+C:\Users\dsdip\source\repos\Practica Prog_Lab_2\Billetes\bin\Debug\Billetes.pdb
+C:\Users\dsdip\source\repos\Practica Prog_Lab_2\Billetes\obj\Debug\Ejercicio 20.csprojResolveAssemblyReference.cache
+C:\Users\dsdip\source\repos\Practica Prog_Lab_2\Billetes\obj\Debug\Ejercicio 20.csproj.CoreCompileInputs.cache
+C:\Users\dsdip\source\repos\Practica Prog_Lab_2\Billetes\obj\Debug\Billetes.exe
+C:\Users\dsdip\source\repos\Practica Prog_Lab_2\Billetes\obj\Debug\Billetes.pdb
