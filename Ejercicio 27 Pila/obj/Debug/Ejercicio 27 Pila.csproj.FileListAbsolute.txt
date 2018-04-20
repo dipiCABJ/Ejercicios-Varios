@@ -1,0 +1,5 @@
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Pila\bin\Debug\Ejercicio 27 Pila.exe.config
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Pila\bin\Debug\Ejercicio 27 Pila.exe
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Pila\bin\Debug\Ejercicio 27 Pila.pdb
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Pila\obj\Debug\Ejercicio 27 Pila.exe
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Pila\obj\Debug\Ejercicio 27 Pila.pdb

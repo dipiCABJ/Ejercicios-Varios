@@ -1,0 +1,6 @@
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Lista\bin\Debug\Ejercicio 27 Lista.exe.config
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Lista\bin\Debug\Ejercicio 27 Lista.exe
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Lista\bin\Debug\Ejercicio 27 Lista.pdb
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Lista\obj\Debug\Ejercicio 27 Lista.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Lista\obj\Debug\Ejercicio 27 Lista.exe
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Lista\obj\Debug\Ejercicio 27 Lista.pdb

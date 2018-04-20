@@ -1,0 +1,5 @@
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Cola\bin\Debug\Ejercicio 27 Cola.exe.config
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Cola\bin\Debug\Ejercicio 27 Cola.exe
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Cola\bin\Debug\Ejercicio 27 Cola.pdb
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Cola\obj\Debug\Ejercicio 27 Cola.exe
+D:\VisualStudio\Ejercicio 27 Lista\Ejercicio 27 Cola\obj\Debug\Ejercicio 27 Cola.pdb
