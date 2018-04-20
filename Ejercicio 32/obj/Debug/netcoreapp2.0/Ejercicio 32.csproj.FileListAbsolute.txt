@@ -1,0 +1,11 @@
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\bin\Debug\netcoreapp2.0\Ejercicio 32.deps.json
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\bin\Debug\netcoreapp2.0\Ejercicio 32.runtimeconfig.json
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\bin\Debug\netcoreapp2.0\Ejercicio 32.runtimeconfig.dev.json
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\bin\Debug\netcoreapp2.0\Ejercicio 32.dll
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\bin\Debug\netcoreapp2.0\Ejercicio 32.pdb
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\obj\Debug\netcoreapp2.0\Ejercicio 32.csprojResolveAssemblyReference.cache
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\obj\Debug\netcoreapp2.0\Ejercicio 32.csproj.CoreCompileInputs.cache
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\obj\Debug\netcoreapp2.0\Ejercicio 32.AssemblyInfoInputs.cache
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\obj\Debug\netcoreapp2.0\Ejercicio 32.AssemblyInfo.cs
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\obj\Debug\netcoreapp2.0\Ejercicio 32.dll
+C:\Users\dipiCABJ\Documents\UTN\Laboratorio 2\Ejercicio 27 Lista\Ejercicio 32\obj\Debug\netcoreapp2.0\Ejercicio 32.pdb

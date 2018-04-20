@@ -1,0 +1,12 @@
+D:\VisualStudio\Ejercicio 27 Lista\Herencia\bin\Debug\Herencia.exe.config
+D:\VisualStudio\Ejercicio 27 Lista\Herencia\bin\Debug\Herencia.exe
+D:\VisualStudio\Ejercicio 27 Lista\Herencia\bin\Debug\Herencia.pdb
+D:\VisualStudio\Ejercicio 27 Lista\Herencia\obj\Debug\Herencia.exe
+D:\VisualStudio\Ejercicio 27 Lista\Herencia\obj\Debug\Herencia.pdb
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 27 Lista\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 27 Lista\Herencia\bin\Debug\Herencia.exe
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 27 Lista\Herencia\bin\Debug\Herencia.pdb
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 27 Lista\Herencia\obj\Debug\Ejercicio 34.csproj.CoreCompileInputs.cache
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 27 Lista\Herencia\obj\Debug\Herencia.exe
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 27 Lista\Herencia\obj\Debug\Herencia.pdb
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 27 Lista\Herencia\obj\Debug\Ejercicio 34.csprojResolveAssemblyReference.cache
