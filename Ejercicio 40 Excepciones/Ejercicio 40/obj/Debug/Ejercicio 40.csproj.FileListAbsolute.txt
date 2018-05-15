@@ -1,0 +1,11 @@
+D:\VisualStudio\Ejercicio 40\Ejercicio 40\bin\Debug\Ejercicio 40.dll
+D:\VisualStudio\Ejercicio 40\Ejercicio 40\bin\Debug\Ejercicio 40.pdb
+D:\VisualStudio\Ejercicio 40\Ejercicio 40\obj\Debug\Ejercicio 40.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicio 40\Ejercicio 40\obj\Debug\Ejercicio 40.dll
+D:\VisualStudio\Ejercicio 40\Ejercicio 40\obj\Debug\Ejercicio 40.pdb
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 40 Excepciones\Ejercicio 40\bin\Debug\Ejercicio 40.dll
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 40 Excepciones\Ejercicio 40\bin\Debug\Ejercicio 40.pdb
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 40 Excepciones\Ejercicio 40\obj\Debug\Ejercicio 40.csprojResolveAssemblyReference.cache
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 40 Excepciones\Ejercicio 40\obj\Debug\Ejercicio 40.csproj.CoreCompileInputs.cache
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 40 Excepciones\Ejercicio 40\obj\Debug\Ejercicio 40.dll
+C:\Users\dsdip\OneDrive\Documentos\UTN\Laboratorio 2\Ejercicio 40 Excepciones\Ejercicio 40\obj\Debug\Ejercicio 40.pdb
